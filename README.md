@@ -12,9 +12,15 @@ _Note_: This includes thread colour.
 -  Some images have background colours that do not need to be covered in stitches. My code allowed for one of the clusters to be "background" and those entries in the pattern became empty. 
 
 ### Example
-We will use a picture of Marilyn Monroe. The following is the original image of Marilyn Monroe. 
+We will use a picture of Marilyn Monroe. The following is the original image of Marilyn Monroe.  
 
-Below is an example of a Marilyn Monroe cross-stitch. One is in colour and the other is in black and white. Both use symbols to differentiate colours and grid lines to help read the pattern. The legend has both the name of the colour and the colour number. The clustering that was used to make this pattern had 7 clusters, but after reducting the resolution, two of these clusters did not appear in the final picture. 
+![unnamed-chunk-3-1](https://user-images.githubusercontent.com/71662106/117996191-f0c11880-b30f-11eb-89f8-814a1378b48a.png)
+
+Below is an example of a Marilyn Monroe cross-stitch. One is in colour and the other is in black and white. Both use symbols to differentiate colours and grid lines to help read the pattern. The legend has both the name of the colour and the colour number. The clustering that was used to make this pattern had 7 clusters, but after reducting the resolution, two of these clusters did not appear in the final picture.  
+
+![unnamed-chunk-11-1](https://user-images.githubusercontent.com/71662106/117995894-b0619a80-b30f-11eb-809e-3ec77bc78cbc.png)
+
+![unnamed-chunk-15-1](https://user-images.githubusercontent.com/71662106/117996051-d1c28680-b30f-11eb-87da-ba2d9ff0ec88.png)
 
 ### Contraints
 - The image should not be too high-resolution.
